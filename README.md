@@ -11,7 +11,7 @@
 - Redis Cache.
 
 ### Результат
-![Результат](C4-diagram.png)
+![Результат](C4-diagram.drawio.png)
 
 ## Потім реалізувати цю архітектуру у вигляді docker-compose.yml з 3–4 сервісів.
 
